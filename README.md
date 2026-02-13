@@ -1,5 +1,5 @@
 # tfcv 🔶🔗👓
-tfcv : Computer Vision TensorFlow # CV # TF # Design # Compile # Train # Evaluate # Save # Load # Callbacks # Network Layers
+tfcv : Computer Vision TensorFlow # Design # Compile # Train # Evaluate Model Performance # Save # Load # Callbacks # Network Layers
 
 
 ## Objectives
