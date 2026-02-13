@@ -1,0 +1,8 @@
+google-cloud-logging
+tensorflow==2.15.0
+tensorflow-datasets
+numpy
+scipy
+protobuf
+typing-extensions
+absl-py>=1.0.0
